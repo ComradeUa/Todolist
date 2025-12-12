@@ -1,0 +1,14 @@
+{
+  "tailwindCSS.experimental.classRegex": [
+    ["class[nN]ame\\s*[:=]\\s*['\"`]([^'\"`]*)['\"`]", "([^'\"`]*)"],
+    ["class[nN]ame\\s*[:=]\\s*\\{([^}]*)\\}", "'([^']*)'"]
+  ],
+  "css.customData": [".vscode/tailwind.json"],
+  "editor.quickSuggestions": {
+    "strings": "on"
+  },
+  "tailwindCSS.includeLanguages": {
+    "typescript": "javascript",
+    "typescriptreact": "javascript"
+  }
+}
