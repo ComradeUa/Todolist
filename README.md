@@ -19,7 +19,7 @@ A modern, full-stack task management application built with Next.js 16 and React
 ### Frontend
 
 - **Next.js 16.0.4** - React framework with App Router
-- **React 19.2.0** - UI library
+- **React 19.2.0** - JS web framework 
 - **TypeScript** - Type safety
 - **Tailwind CSS v4** - Utility-first CSS framework
 - **Motion (Framer Motion 12)** - Animations
